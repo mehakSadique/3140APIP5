@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run and you must run these two:
 
 ### `npm install and npm install axios`
-
+need to install these for it to run
 
 ### `npm start`
 
